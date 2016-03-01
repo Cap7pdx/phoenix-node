@@ -5,3 +5,14 @@ Node.js based version of Phoenix.
 * Node.js  
 * JSDom  
 
+###Installation
+
+``` bash
+  npm install jsdom
+```
+
+###Usage
+
+``` bash
+  node alt.js
+```
